@@ -1,0 +1,6 @@
+Name : Varshini t
+reg no : 24mcr122
+dep : mca
+topic : machine learning
+mbl no : 6384992398
+dob : 26.06.2004
